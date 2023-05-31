@@ -1,2 +1,1 @@
-# Kurashiki Time Lapse
-# kurashiki
+# Kurashiki time lapse
